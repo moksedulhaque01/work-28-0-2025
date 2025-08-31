@@ -1,0 +1,17 @@
+.ques{
+	background-color: teal;
+	padding: 50px 50px;
+	cursor: pointer;
+}
+.answ{
+	background-color: tomato;
+	padding: 50px 50px;
+	display: none;
+}
+#draggable { 
+	padding: 50px; 
+}
+  .label {
+    display: inline-block;
+    width: 5em;
+  }
