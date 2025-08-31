@@ -15,3 +15,11 @@
     display: inline-block;
     width: 5em;
   }
+  #resizable { width: 150px; 
+  	height: 150px; 
+  	padding: 0.5em; 
+  }
+  #resizable h3 { 
+  	text-align: center; 
+  	margin: 0; 
+  }
