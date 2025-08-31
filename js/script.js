@@ -72,6 +72,11 @@ $(document).ready(function(){
         $( document ).tooltip();
 
         $( "#resizable" ).resizable();
+        handles: "se"
+  } );
+
+  $( function() {
+    $( "#selectable" ).selectable();
   } );
 
 
