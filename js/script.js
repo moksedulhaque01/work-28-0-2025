@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	/* alert("Hello world");
+	/* alert("Hello world"); */
 
 	$('#sbtn').click(function(){
 		alert("Hello SSB");
@@ -7,7 +7,7 @@ $(document).ready(function(){
 
 	$('button').on('click',function(){
 		alert("Hello SSB");
-	}); */
+	});
 
 	$('#show').on('click',function(){
 		$('h3').show();
